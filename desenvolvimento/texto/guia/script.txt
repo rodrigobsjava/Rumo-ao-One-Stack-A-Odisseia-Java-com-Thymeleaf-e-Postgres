@@ -1,0 +1,25 @@
+Vou criar um ebook como atividade para o bootcamp: TONNIE - Java and AI in Europe, no módulo Criando um Ebook com ChatGPT & MidJourney.
+- Tema será sobre Java, Spring Boot, Thymeleaf e PostgreSQL Database.
+- Ebook do nicho de programação e o subnicho é de fullstack.
+- O Título deve ser épico e médio
+- Com uma temática mais nerd, porém descontraida.
+- A temática pode ser sobre One Piece.
+- Me liste 5 variações.
+= Rumo ao One Stack: A Odisseia Java com Thymeleaf e PostgreSQL
+
+melhora esse comando para prompt:
+Luffy programando em java
+- mostre os códigos
+- com o chapéu de palha
+- para ebook
+- pode fazer a imagem com mais capricho	
+- design épico
+- motivado
+- usar as cores do Java, Thymeleaf e PostgreSQL
+- usar as logos do Java, Thymeleaf e PostgreSQL
+Título: Rumo ao One Stack: A Odisseia Java com Thymeleaf e PostgreSQL
+
+
+Subtitulo: 
+Desbrave os mares do desenvolvimento fullstack com Java, Spring Boot, Thymeleaf e PostgreSQL, e encontre o tesouro do código limpo e escalável.
+

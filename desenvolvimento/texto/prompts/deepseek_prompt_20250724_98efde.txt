@@ -1,0 +1,13 @@
+**Imagem de Capa para Ebook de Programação:**
+"Luffy (One Piece) em versão realista, programando Java intensamente em um laptop, usando seu chapéu de palha. Ao fundo, telas exibem códigos Java, Thymeleaf e SQL/Postgres. Estilo semi-realista digital, iluminação épica, detalhes hiper-realistas nas mãos e expressão focada. Cena noturna em um escritório tranquilo com mapas de navegação e um pequeno Jolly Roger no monitor. Proporção 16:9, alta resolução, tons de azul-tech e âmbar. --v 6.0 --style raw"  
+
+
+**Elementos obrigatórios:**  
+- Chapéu de palha desgastado  
+- Códigos legíveis em IDE (Java/Thymeleaf)  
+- Diagrama de banco Postgres em segundo plano  
+- Logotipo do Jolly Robin (Duke openjdk) integrado ao setup  
+- Estética "dev-pirata": cabos desorganizados, caneca de café, adesivos de frutas do diabo no laptop  
+
+**Negativos:**  
+--no anime, cartoon, mangá, olhos grandes, braços esticados, personagens secundários, texto flutuante, assinaturas  

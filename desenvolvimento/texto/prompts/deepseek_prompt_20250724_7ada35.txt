@@ -1,0 +1,16 @@
+**Imagem de capa épica para ebook técnico:**
+"Luffy (One Piece) versão realista hiperdetalahada, programando Java com intensidade heroica em um setup futurista. Chapéu de palha desgastado inclinado sobre os olhos concentrados, mãos digitando velozes sobre teclado mecânico iluminado. Telas holográficas exibem: 
+- Código Java complexo (Spring Boot) 
+- Templates Thymeleaf 
+- Diagramas de arquitetura PostgreSQL. 
+Cenário: Convés do Thousand Sunny transformado em 'navio-dev', com ilhas flutuantes de dados e nuvens de circuitos no céu. Estilo concept art digital, iluminação épica de pôr-do-sol, detalhes 8K, perspectiva dinâmica low-angle. Proporção 3:4 (ebook), paleta âmbar/azul-tech com explosões douradas. --v 6.0 --style raw --s 250"
+
+
+**Elementos-chave:** 
+[+] Energia motivacional: aura sutil, expressão determinada, postura de conquista  
+[+] Simbologia épica: Grand Line como fluxo de dados, Jolly Roger estilizado como logo DevOps  
+[+] Realismo técnico: IDE (IntelliJ), terminal com comandos kubectl, notas adesivas "DEPLOY!"  
+[+] Detalhes premium: reflexos no óculos, textura do chapéu, cabos organizados como amarras navais
+
+**Exclusões críticas:** 
+--no cartoon, childish, braços esticados, desfoque, texto ilegível, assinaturas, personagens secundários, minimalismo

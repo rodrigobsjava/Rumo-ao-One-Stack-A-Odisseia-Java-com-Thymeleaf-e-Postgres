@@ -1,0 +1,48 @@
+**Capa de Ebook Épica - Especificações Técnicas:**
+
+"Luffy (One Piece) em estilo realista hiper-detalhado, com chapéu de palha desgastado, programando Java com foco intenso. Setup futurista com: 
+
+- Tela principal: Código Java (Spring Boot) em fundo âmbar (Pantone 151C) com logo Java holográfica 
+
+- Tela esquerda: Template Thymeleaf em azul-elétrico (HEX #005f87) com logo Thymeleaf 
+
+- Tela direita: Diagrama Postgres em azul-petróleo (HEX #336791) com elefante logo. 
+
+Cenário: Ponte do Thousand Sunny transformada em cockpit espacial, com janelas mostrando fluxos de dados coloridos (âmbar/azul). Estilo 'tech-pirate concept art', iluminação épica de supernova, perspectiva low-angle, detalhes 8K. Paleta oficial: Java orange + Thymeleaf blue + Postgres blue/grey com toques âmbar. --ar 3:4 --v 6 --style raw --s 250"
+
+
+**Elementos Obrigatórios:**
+
+✓ **Logos Oficiais:** 
+
+   - Java Duke
+
+✓ **Códigos Legíveis:** 
+
+   - Java: `@RestController` e streams 
+
+   - Thymeleaf: `th:text` e fragments 
+
+   - Postgres: `CREATE TABLE` com UUID 
+
+✓ **Design Motivacional:** 
+
+   - Olhos determinados com reflexo de código 
+
+   - Aura dourada de energia 
+
+   - Postura conquistadora (punho cerrado sobre teclado) 
+
+✓ **Cores Técnicas:** 
+
+   - Destaques âmbar (Java) 
+
+   - Tons azuis (Thymeleaf/Postgres) 
+
+   - Fios luminosos nas cores das tecnologias 
+
+
+
+**Exclusões:** 
+
+--no anime, cartoon, olhos grandes, braços esticados, desfoque, minimalismo, texto flutuante

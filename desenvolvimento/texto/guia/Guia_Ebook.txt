@@ -1,0 +1,87 @@
+GUIA PARA CRIAR EBOOK PROFISSIONAL
+----------------------------------
+
+I. ESTRUTURA BÁSICA
+-------------------
+1. Capa (visual atraente)
+2. Página de título (nome do livro/autor)
+3. Créditos/copyright
+4. Dedicatória/agradecimentos (opcional)
+5. SUMÁRIO HIPERLINKADO (essencial!)
+6. Introdução/prefácio
+7. Capítulos (com títulos claros)
+8. Conclusão
+9. Apêndices/glossário (opcional)
+10. Sobre o autor
+
+II. TIPOGRAFIA
+--------------
+CORPO DO TEXTO:
+• Fontes serifadas: Georgia, PT Serif, Noto Serif
+• Fontes sans-serif: Roboto, Open Sans, Lato
+• Evitar fontes decorativas
+
+TÍTULOS:
+• Fonte distinta do corpo (ex: sans-serif se corpo for serif)
+• Hierarquia clara (H1 > H2 > H3)
+
+III. FORMATAÇÃO
+---------------
+TAMANHO DA FONTE:
+• Corpo: tamanho relativo (1em ou 100%)
+• Títulos: H1 (1.8em), H2 (1.5em), H3 (1.2em)
+
+ESPAÇAMENTO:
+• Entrelinhamento: 1.4 a 1.6 (ex: line-height: 1.5;)
+• Parágrafos: 
+  - Recuo primeira linha (1.25em) 
+  OU 
+  - Espaço entre parágrafos (margin-bottom: 0.75em)
+  (NUNCA os dois juntos)
+
+MARGENS:
+• Mínimas (5-10mm) e simétricas
+• Evitar margens fixas grandes
+
+ALINHAMENTO:
+• Preferência: Texto justificado (com atenção a "rios" de espaços)
+• Alternativa: Alinhado à esquerda
+• Evitar: Centralizado ou à direita
+
+IV. CAPA
+--------
+DIMENSÕES:
+• Mínimo: 1563 x 2500 pixels (proporção 1.6:1)
+• Resolução: 72 DPI
+
+ELEMENTOS:
+1. Título (legível em miniatura)
+2. Nome do autor
+3. Imagem de fundo de alta qualidade
+4. Logo/marca (opcional)
+
+FORMATO:
+• JPG (padrão) ou PNG (com transparência)
+
+V. FORMATO FINAL
+----------------
+• EPUB (padrão universal - recomendado)
+• MOBI (apenas para Kindle)
+• PDF (evitar - só para livros com layout complexo)
+
+VI. FERRAMENTAS
+---------------
+• Escrita: Google Docs, Word
+• Conversão: Calibre (gratuito)
+• Edição EPUB: Sigil (gratuito)
+• Capa: Canva, Photoshop
+• Validação: Kindle Previewer, EpubCheck
+
+PONTOS CRÍTICOS:
+----------------
+✓ Testar em múltiplos dispositivos
+✓ Garantir sumário com links clicáveis
+✓ Usar imagens em resolução adequada
+✓ Manter consistência tipográfica
+✓ Evitar formatação complexa
+✓ Otimizar para leitura em telas pequenas

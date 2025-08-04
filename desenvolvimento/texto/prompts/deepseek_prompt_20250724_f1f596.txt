@@ -1,0 +1,18 @@
+**Capa de Ebook Épica:**
+"Luffy (One Piece) em versão hiper-realista, com expressão intensa e motivada, programando Java em um setup futurista. Chapéu de palha desgastado inclinado sobre os olhos focados. Mãos digitando rapidamente em teclado retroiluminado enquanto múltiplas telas exibem: 
+- Código Java complexo (Spring Boot) 
+- Template Thymeleaf 
+- Diagrama ER de banco Postgres. 
+Cenário: Nave espacial Thousand Sunny com painéis holográficos mostrando rotas de dados como oceanos digitais. Estilo 'digital painting' épico, iluminação dramática de supernova, detalhes 8K, perspectiva heroica low-angle. Proporção 3:4 (ebook), paleta âmbar/azul-elétrico com auréola dourada ao redor do personagem. --v 6.0 --style raw --s 250"
+
+**Título em Destaque:** 
+"RUMO AO ONE STACK: A Odisseia Java com Thymeleaf e Postgres" (flutuando em névoa digital)
+
+**Elementos Essenciais:**
+[+] **Foco Motivacional:** Olhos determinados, músculos tensionados, aura de energia
+[+] **Realismo Técnico:** Códigos legíveis (Java/Thymeleaf), IDE (IntelliJ), terminal com comandos git
+[+] **Simbologia Pirata:** Chapéu de palha autêntico, Jolly Roger estilizado como logo DevOps
+[+] **Detalhes Premium:** Reflexos no monitor, textura do algodão do chapéu, fios de cabos como cordas navais
+
+**Exclusões Críticas:** 
+--no anime, cartoon, olhos grandes, braços esticados, desfoque, minimalismo, personagens secundários
